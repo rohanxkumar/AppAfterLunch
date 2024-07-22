@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248916493311",
+    "project_id": "appafterlunch",
+    "storage_bucket": "appafterlunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248916493311:android:a0316ed648b25c61c5ddca",
+        "android_client_info": {
+          "package_name": "com.example.appafterlunch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75ZX8bv2sh5-42jc_kscTarEYP22jZ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
